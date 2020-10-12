@@ -10,5 +10,5 @@ Steps for running on local computer
 7. `npm run serve`
 8. Then open `localhost:8080`
 
-Username: test@test.com
+Username: test@test.com <br>
 Password: 123123
