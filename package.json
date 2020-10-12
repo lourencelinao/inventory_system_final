@@ -1,0 +1,28 @@
+{
+  "name": "inventory_system_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "nodemon": "nodemon server/index.js",
+    "build-css": "npx tailwindcss build client/src/css/styles.css -o client/src/css/output.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apexcharts": "^3.22.0",
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase": "^7.23.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.31",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4",
+    "tailwindcss": "^1.8.13",
+    "vue-apexcharts": "^1.6.0"
+  }
+}
