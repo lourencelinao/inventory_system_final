@@ -1,4 +1,5 @@
-# inventory_system_final
+# Basic Inventory and Point of Sale System.
+## This is built using MySQL, Express.js, Vue.js, Node.js (MEVN Stack) and tailwindcss for the styles
 
 Steps for running on local computer
 1. `git clone https://github.com/lourencelinao/inventory_system_final.git`
